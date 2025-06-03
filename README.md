@@ -84,3 +84,13 @@ The system consists of two Arduino sketches:
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details."# 6-Channel-RF-Transmitter-Receiver" 
+
+
+---
+
+## 🧠 Author
+
+**Md Shaifulla Zibon**  
+Electrical and Electronics Engineering  
+European University of Bangladesh  
+GitHub: [@zibontaroka](https://github.com/zibontaroka)
