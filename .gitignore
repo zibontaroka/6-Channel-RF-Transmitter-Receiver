@@ -1,0 +1,29 @@
+# Arduino-specific files
+*.ino.bin
+*.hex
+*.elf
+
+# Build and temporary files
+*.o
+*.d
+*.eep
+*.lst
+*.sym
+*.lss
+*.map
+
+# Backup files
+*.bak
+*.backup
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Miscellaneous
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
